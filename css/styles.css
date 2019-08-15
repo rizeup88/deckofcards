@@ -1,0 +1,21 @@
+html body {
+	text-align: center;
+	font-family: Helvetica;
+}
+
+.header {
+	margin-top: 1em;
+}
+
+.header h4 {
+	margin-top: 1em;
+}
+
+.list h4 {
+	text-align: left;
+	margin-top: 2em;
+}
+
+.list ul {
+	text-align: left;
+}
